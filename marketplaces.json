@@ -1,0 +1,22 @@
+{
+  "resellers": [
+    {
+      "reseller_id": "reseller_001",
+      "reseller_name": "Example Reseller",
+      "reseller_email": "contact@example.com",
+      "rotation_packages": [
+        {
+          "package_id": "pkg_test_001",
+          "package_name": "Test Rotation Package",
+          "rotation_files": ["RestorationDruid"],
+          "description": "Example package for testing",
+          "price": "5.99",
+          "currency": "USD",
+          "payment_url": "https://example.com/checkout",
+          "webhook_url": "https://example.com/api/verify",
+          "icon": "icons/restoration_druid.webp"
+        }
+      ]
+    }
+  ]
+}
