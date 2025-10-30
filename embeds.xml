@@ -1,0 +1,20 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/ https://raw.githubusercontent.com/Gethe/wow-ui-schema/main/UI.xsd">
+    <!-- LibStub -->
+    <Script file="Libs\CallbackHandler-1.0\LibStub\LibStub.lua"/>
+    
+    <!-- CallbackHandler-1.0 -->
+    <Script file="Libs\CallbackHandler-1.0\CallbackHandler-1.0\CallbackHandler-1.0.lua"/>
+    
+    <!-- LibRangeCheck-3.0 -->
+    <Script file="Libs\LibRangeCheck-3.0\LibStub-1.0\Libstub.lua"/>
+    <Script file="Libs\LibRangeCheck-3.0\LibRangeCheck-3.0\LibRangeCheck-3.0.lua"/>
+    
+    <!-- AceSerializer-3.0 -->
+    <Script file="Libs\AceSerializer-3.0\AceSerializer-3.0.lua"/>
+    
+    <!-- LibDataBroker-1.1 -->
+    <Script file="Libs\libdatabroker-1-1\libdatabroker-1.1.lua"/>
+    
+    <!-- LibDBIcon-1.0 -->
+    <Script file="Libs\LibDBIcon-1.0\LibDBIcon-1.0\LibDBIcon-1.0.lua"/>
+</Ui>
